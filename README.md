@@ -14,7 +14,7 @@ The objective of this lab project is to configure a central log repository using
 - Blob Storage: Azure storage service for storing and managing data.
 - Key Vault: Service for securely storing and accessing secrets, keys, and certificates.
 
-##Methodologies And Execution
+## Methodologies And Execution
 ### Connecting Microsoft Sentinel to the LAW:
 
 Integrate Microsoft Sentinel with the created Log Analytics Workspace.
