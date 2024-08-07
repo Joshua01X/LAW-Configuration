@@ -29,6 +29,7 @@ Ensure seamless data collection and security event monitoring through Sentinel.
 Enable Microsoft Defender for Cloud for the relevant resources.
 Configure it to forward appropriate types of logs (e.g., security alerts, recommendations) to LAW.
 ![image](https://github.com/user-attachments/assets/068bb3df-8f86-4cc4-b9af-1f598f1c6a8f)
+
 Set up continuous export to ensure ongoing log forwarding.
 
 ### Creation of NSG Flow Logs and Forwarding to LAW:
